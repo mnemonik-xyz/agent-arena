@@ -1,0 +1,1 @@
+Always read .cline/ionet/SKILL.md before any io.net / Warrant / transcription task and follow Worker Container HTTP Operations exactly: POST <public_url>/job?language=en with octet-stream + X-Audio-SHA256, poll GET /job/<id>.

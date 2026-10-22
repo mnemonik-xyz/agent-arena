@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "Warrant": {
+      "transport": {
+        "type": "streamableHttp",
+        "url": "http://localhost:8000/mcp"
+      }
+    },
+    "buyer_mcp_server": {
+      "transport": {
+        "type": "streamableHttp",
+        "url": "http://localhost:8001/mcp"
+      }
+    }
+  }
+}
